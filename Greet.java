@@ -1,9 +1,13 @@
 public class Greet {
     public static void main(String[] args) {
-        greet("Robert Horvath");
+        greet("Robert", "Horvath");
     }
 
-    public static void greet(){
-        System.out.println("Greetings!");
+
+    public static void greet(String firstName, String lastName){
+        System.out.println(firstName);
+        System.out.println(lastName);
     }
+
 }
+
