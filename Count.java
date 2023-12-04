@@ -1,10 +1,10 @@
 public class Count {
     public static void main(String[] args) {
-        count();
+        count(12);
 
     }
 
-    public static void count(){
-        System.out.println("22");
+    public static void count(int month){
+        System.out.println(month);
     }
 }
