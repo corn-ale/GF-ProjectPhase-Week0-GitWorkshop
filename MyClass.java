@@ -2,7 +2,7 @@
 
 class MyClass {
 
-	public void future() {
-		System.out.println("Saggitarius");
+	public void future(String sign) {
+		System.out.println(sign);
 	}
 }
