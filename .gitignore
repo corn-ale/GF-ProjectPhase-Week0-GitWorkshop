@@ -24,4 +24,7 @@ hs_err_pid*
 replay_pid*
 
 *.iml
+<<<<<<< HEAD
 *.idea
+=======
+>>>>>>> 783308ab2b396d3f5ea5d12835bebdc8ec7b4222
