@@ -6,6 +6,9 @@ public class Count {
 
     public static void count(int param){
         System.out.println("Counting the countless " + param);
+<<<<<<< HEAD
 
+=======
+>>>>>>> Mishashh-twoparam
     }
 
