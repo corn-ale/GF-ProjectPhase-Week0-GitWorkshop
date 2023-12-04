@@ -4,7 +4,7 @@ public class Count {
 
     }
 
-    public static void count(int month){
-        System.out.println(month);
+    public static void count(int param){
+        System.out.println("Counting the countless " + param);
     }
 
