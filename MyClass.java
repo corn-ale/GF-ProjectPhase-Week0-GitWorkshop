@@ -1,5 +1,10 @@
-class MyClass {
-	public void future(String param1, int param2) {
-		System.out.println(param1 + param2);
+public class MyClass {
+	public static void main(String[] args) {
+		future("potato");
+	}
+
+
+	public static void future(String param1) {
+		System.out.println("your future looks like" + param1);
 	}
 }
