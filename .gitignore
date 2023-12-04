@@ -26,4 +26,5 @@ hs_err_pid*
 replay_pid*
 
 *.iml
-*.idea
+*.idea/.name
+
