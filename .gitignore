@@ -18,6 +18,8 @@
 *.zip
 *.tar.gz
 *.rar
+*.idea
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -32,3 +34,6 @@ replay_pid*
 =======
 >>>>>>> 783308ab2b396d3f5ea5d12835bebdc8ec7b4222
 >>>>>>> d457f54b774e0c05bc9a773a912c5790df04ee17
+
+
+*.idea
