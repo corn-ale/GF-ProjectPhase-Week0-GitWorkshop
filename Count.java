@@ -4,9 +4,8 @@ public class Count {
 
     }
 
-    public static void count(int month, String nameOfMonth){
-        System.out.println(month);
-        System.out.println(nameOfMonth);
+    public static void count(int param){
+        System.out.println("Counting the countless " + param);
 
     }
 
