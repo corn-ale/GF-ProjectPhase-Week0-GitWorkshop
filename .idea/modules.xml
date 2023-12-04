@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/GF-ProjectPhase-Week0-GitWorkshop.iml" filepath="$PROJECT_DIR$/GF-ProjectPhase-Week0-GitWorkshop.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/GF-ProjectPhase-Week0-GitWorkshop.iml" filepath="$PROJECT_DIR$/.idea/GF-ProjectPhase-Week0-GitWorkshop.iml" />
+>>>>>>> 7f4ad6b5a53ba4659af17ac7f0a34b79ea22bfea
     </modules>
   </component>
 </project>
