@@ -5,8 +5,7 @@ public class Greet {
 
 
     public static void greet(String firstName, String lastName){
-        System.out.println(firstName);
-        System.out.println(lastName);
+        System.out.println("Greetings for " + firstName + " " + lastName + ".");
     }
 
 }
