@@ -4,7 +4,5 @@ class MyClass {
 		System.out.println("Saggitarius");
 	}
 
-	public void cheering() {
-		System.out.println("Sanyi's pack");
-	}
+
 }
