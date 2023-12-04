@@ -8,6 +8,3 @@ public class Greet {
         System.out.println(firstName);
         System.out.println(lastName);
     }
-
-}
-
